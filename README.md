@@ -6,7 +6,7 @@
 
 Grove端子の2本の信号線の信号電圧を、5V/3.3Vで相互に変換します。例えば信号電圧が3.3VのM5Stackシリーズで5V系のI2CデバイスやUART通信を行うことができます。
 
-<img src="https://github.com/akita11/GroveSignalLevelShifter/blob/main/GroveSignalLS_config.png" width="240px">
+<img src="https://github.com/akita11/GroveSignalLevelShifter/blob/main/GroveSigLS_config.png" width="240px">
 
 電源が5V、信号が3.3Vの「Groveコネクタ」（M5Stackシリーズなど）を、5V系のGroveから使用することができます。
 電源は、どちらかのコネクタから+5Vを与えてください。
